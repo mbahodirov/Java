@@ -41,4 +41,4 @@ console.log(p4)
 console.log("=========")
 
 //V=a3   S=6*a2
-var 
+var
